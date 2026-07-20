@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Chenikachhabra/dsa-practice/tree/master/0547-number-of-provinces) |
+## String
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/Chenikachhabra/dsa-practice/tree/master/0657-robot-return-to-origin) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/Chenikachhabra/dsa-practice/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
