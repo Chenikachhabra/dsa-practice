@@ -34,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/Chenikachhabra/dsa-practice/tree/master/0994-rotting-oranges) |
+## Database
+|  |
+| ------- |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Chenikachhabra/dsa-practice/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 <!---LeetCode Topics End-->
