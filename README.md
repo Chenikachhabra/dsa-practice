@@ -37,5 +37,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Chenikachhabra/dsa-practice/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Chenikachhabra/dsa-practice/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 <!---LeetCode Topics End-->
