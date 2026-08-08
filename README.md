@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Chenikachhabra/dsa-practice/tree/master/0054-spiral-matrix) |
+| [0152-maximum-product-subarray](https://github.com/Chenikachhabra/dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0994-rotting-oranges](https://github.com/Chenikachhabra/dsa-practice/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/Chenikachhabra/dsa-practice/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Chenikachhabra/dsa-practice/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Chenikachhabra/dsa-practice/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/Chenikachhabra/dsa-practice/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
