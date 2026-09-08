@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Chenikachhabra/dsa-practice/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Chenikachhabra/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0994-rotting-oranges](https://github.com/Chenikachhabra/dsa-practice/tree/master/0994-rotting-oranges) |
+| [1480-running-sum-of-1d-array](https://github.com/Chenikachhabra/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Chenikachhabra/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/Chenikachhabra/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
