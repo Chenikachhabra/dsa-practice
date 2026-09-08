@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chenikachhabra/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0344-reverse-string](https://github.com/Chenikachhabra/dsa-practice/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/Chenikachhabra/dsa-practice/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/Chenikachhabra/dsa-practice/tree/master/0657-robot-return-to-origin) |
 ## Simulation
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Chenikachhabra/dsa-practice/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/Chenikachhabra/dsa-practice/tree/master/0647-palindromic-substrings) |
 ## Sliding Window
 |  |
