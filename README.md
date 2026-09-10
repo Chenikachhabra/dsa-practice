@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Chenikachhabra/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Chenikachhabra/dsa-practice/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chenikachhabra/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Chenikachhabra/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Chenikachhabra/dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0414-third-maximum-number](https://github.com/Chenikachhabra/dsa-practice/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Chenikachhabra/dsa-practice/tree/master/0496-next-greater-element-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Chenikachhabra/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Chenikachhabra/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Chenikachhabra/dsa-practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Chenikachhabra/dsa-practice/tree/master/0739-daily-temperatures) |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Chenikachhabra/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Chenikachhabra/dsa-practice/tree/master/0739-daily-temperatures) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Chenikachhabra/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
