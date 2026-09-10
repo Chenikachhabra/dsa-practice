@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Chenikachhabra/dsa-practice/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Chenikachhabra/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Chenikachhabra/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/Chenikachhabra/dsa-practice/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/Chenikachhabra/dsa-practice/tree/master/0994-rotting-oranges) |
 | [1480-running-sum-of-1d-array](https://github.com/Chenikachhabra/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
@@ -100,8 +101,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Chenikachhabra/dsa-practice/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Chenikachhabra/dsa-practice/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Chenikachhabra/dsa-practice/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Chenikachhabra/dsa-practice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
