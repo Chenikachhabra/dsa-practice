@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chenikachhabra/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/Chenikachhabra/dsa-practice/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/Chenikachhabra/dsa-practice/tree/master/0402-remove-k-digits) |
 | [0647-palindromic-substrings](https://github.com/Chenikachhabra/dsa-practice/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/Chenikachhabra/dsa-practice/tree/master/0657-robot-return-to-origin) |
 ## Simulation
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chenikachhabra/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0402-remove-k-digits](https://github.com/Chenikachhabra/dsa-practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Chenikachhabra/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Chenikachhabra/dsa-practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Chenikachhabra/dsa-practice/tree/master/0739-daily-temperatures) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Chenikachhabra/dsa-practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Chenikachhabra/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Chenikachhabra/dsa-practice/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Chenikachhabra/dsa-practice/tree/master/0901-online-stock-span) |
@@ -129,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Chenikachhabra/dsa-practice/tree/master/0901-online-stock-span) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Chenikachhabra/dsa-practice/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
