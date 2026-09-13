@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Chenikachhabra/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/Chenikachhabra/dsa-practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Chenikachhabra/dsa-practice/tree/master/0739-daily-temperatures) |
+| [0962-maximum-width-ramp](https://github.com/Chenikachhabra/dsa-practice/tree/master/0962-maximum-width-ramp) |
 | [0994-rotting-oranges](https://github.com/Chenikachhabra/dsa-practice/tree/master/0994-rotting-oranges) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Chenikachhabra/dsa-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Chenikachhabra/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chenikachhabra/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/Chenikachhabra/dsa-practice/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/Chenikachhabra/dsa-practice/tree/master/0647-palindromic-substrings) |
+| [0962-maximum-width-ramp](https://github.com/Chenikachhabra/dsa-practice/tree/master/0962-maximum-width-ramp) |
 ## Sliding Window
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Chenikachhabra/dsa-practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Chenikachhabra/dsa-practice/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Chenikachhabra/dsa-practice/tree/master/0901-online-stock-span) |
+| [0962-maximum-width-ramp](https://github.com/Chenikachhabra/dsa-practice/tree/master/0962-maximum-width-ramp) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Chenikachhabra/dsa-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Chenikachhabra/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Chenikachhabra/dsa-practice/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Chenikachhabra/dsa-practice/tree/master/0901-online-stock-span) |
+| [0962-maximum-width-ramp](https://github.com/Chenikachhabra/dsa-practice/tree/master/0962-maximum-width-ramp) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Chenikachhabra/dsa-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Math
 |  |
