@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chenikachhabra/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Chenikachhabra/dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0414-third-maximum-number](https://github.com/Chenikachhabra/dsa-practice/tree/master/0414-third-maximum-number) |
+| [0456-132-pattern](https://github.com/Chenikachhabra/dsa-practice/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Chenikachhabra/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Chenikachhabra/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/Chenikachhabra/dsa-practice/tree/master/0735-asteroid-collision) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Chenikachhabra/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0456-132-pattern](https://github.com/Chenikachhabra/dsa-practice/tree/master/0456-132-pattern) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chenikachhabra/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/Chenikachhabra/dsa-practice/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Chenikachhabra/dsa-practice/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/Chenikachhabra/dsa-practice/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Chenikachhabra/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Chenikachhabra/dsa-practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Chenikachhabra/dsa-practice/tree/master/0739-daily-temperatures) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Chenikachhabra/dsa-practice/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Chenikachhabra/dsa-practice/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/Chenikachhabra/dsa-practice/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Chenikachhabra/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Chenikachhabra/dsa-practice/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Chenikachhabra/dsa-practice/tree/master/0901-online-stock-span) |
@@ -140,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Chenikachhabra/dsa-practice/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Chenikachhabra/dsa-practice/tree/master/0402-remove-k-digits) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Chenikachhabra/dsa-practice/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
