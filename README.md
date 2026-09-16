@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Chenikachhabra/dsa-practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chenikachhabra/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Chenikachhabra/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Chenikachhabra/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Chenikachhabra/dsa-practice/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chenikachhabra/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chenikachhabra/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Chenikachhabra/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chenikachhabra/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Chenikachhabra/dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/Chenikachhabra/dsa-practice/tree/master/0647-palindromic-substrings) |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Chenikachhabra/dsa-practice/tree/master/0456-132-pattern) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Chenikachhabra/dsa-practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
