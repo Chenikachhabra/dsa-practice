@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chenikachhabra/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chenikachhabra/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Chenikachhabra/dsa-practice/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Chenikachhabra/dsa-practice/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Chenikachhabra/dsa-practice/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Chenikachhabra/dsa-practice/tree/master/0414-third-maximum-number) |
 | [0456-132-pattern](https://github.com/Chenikachhabra/dsa-practice/tree/master/0456-132-pattern) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Chenikachhabra/dsa-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chenikachhabra/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Chenikachhabra/dsa-practice/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Chenikachhabra/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Chenikachhabra/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Chenikachhabra/dsa-practice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Chenikachhabra/dsa-practice/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Chenikachhabra/dsa-practice/tree/master/0414-third-maximum-number) |
 ## Stack
 |  |
@@ -167,4 +170,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Chenikachhabra/dsa-practice/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Chenikachhabra/dsa-practice/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Chenikachhabra/dsa-practice/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Chenikachhabra/dsa-practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
