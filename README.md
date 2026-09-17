@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Chenikachhabra/dsa-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Chenikachhabra/dsa-practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Chenikachhabra/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Chenikachhabra/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Chenikachhabra/dsa-practice/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Chenikachhabra/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/Chenikachhabra/dsa-practice/tree/master/0456-132-pattern) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Chenikachhabra/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Chenikachhabra/dsa-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Chenikachhabra/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Chenikachhabra/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0456-132-pattern](https://github.com/Chenikachhabra/dsa-practice/tree/master/0456-132-pattern) |
 ## Hash Table
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Chenikachhabra/dsa-practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Chenikachhabra/dsa-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Chenikachhabra/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Chenikachhabra/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Chenikachhabra/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Chenikachhabra/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Chenikachhabra/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Chenikachhabra/dsa-practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Chenikachhabra/dsa-practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Chenikachhabra/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Chenikachhabra/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0647-palindromic-substrings](https://github.com/Chenikachhabra/dsa-practice/tree/master/0647-palindromic-substrings) |
 | [0962-maximum-width-ramp](https://github.com/Chenikachhabra/dsa-practice/tree/master/0962-maximum-width-ramp) |
 ## Sliding Window
@@ -131,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Chenikachhabra/dsa-practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Chenikachhabra/dsa-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Chenikachhabra/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Chenikachhabra/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Chenikachhabra/dsa-practice/tree/master/0414-third-maximum-number) |
 ## Stack
 |  |
