@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Chenikachhabra/dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Chenikachhabra/dsa-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Chenikachhabra/dsa-practice/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Chenikachhabra/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Chenikachhabra/dsa-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Chenikachhabra/dsa-practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Chenikachhabra/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Chenikachhabra/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Chenikachhabra/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Chenikachhabra/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
