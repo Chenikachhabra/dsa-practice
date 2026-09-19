@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Chenikachhabra/dsa-practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chenikachhabra/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Chenikachhabra/dsa-practice/tree/master/0402-remove-k-digits) |
+| [0443-string-compression](https://github.com/Chenikachhabra/dsa-practice/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/Chenikachhabra/dsa-practice/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/Chenikachhabra/dsa-practice/tree/master/0657-robot-return-to-origin) |
 ## Simulation
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Chenikachhabra/dsa-practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Chenikachhabra/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chenikachhabra/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/Chenikachhabra/dsa-practice/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/Chenikachhabra/dsa-practice/tree/master/0647-palindromic-substrings) |
 | [0962-maximum-width-ramp](https://github.com/Chenikachhabra/dsa-practice/tree/master/0962-maximum-width-ramp) |
 ## Sliding Window
