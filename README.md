@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Chenikachhabra/dsa-practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chenikachhabra/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Chenikachhabra/dsa-practice/tree/master/0402-remove-k-digits) |
+| [0415-add-strings](https://github.com/Chenikachhabra/dsa-practice/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Chenikachhabra/dsa-practice/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/Chenikachhabra/dsa-practice/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/Chenikachhabra/dsa-practice/tree/master/0657-robot-return-to-origin) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Chenikachhabra/dsa-practice/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/Chenikachhabra/dsa-practice/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Chenikachhabra/dsa-practice/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Chenikachhabra/dsa-practice/tree/master/0735-asteroid-collision) |
 ## Array
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chenikachhabra/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Chenikachhabra/dsa-practice/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/Chenikachhabra/dsa-practice/tree/master/0415-add-strings) |
 ## Design
 |  |
 | ------- |
