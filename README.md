@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Chenikachhabra/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Chenikachhabra/dsa-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Chenikachhabra/dsa-practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Chenikachhabra/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Chenikachhabra/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chenikachhabra/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Chenikachhabra/dsa-practice/tree/master/0414-third-maximum-number) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Chenikachhabra/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Chenikachhabra/dsa-practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Chenikachhabra/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Chenikachhabra/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chenikachhabra/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0456-132-pattern](https://github.com/Chenikachhabra/dsa-practice/tree/master/0456-132-pattern) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Chenikachhabra/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Chenikachhabra/dsa-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Chenikachhabra/dsa-practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Chenikachhabra/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Chenikachhabra/dsa-practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Chenikachhabra/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chenikachhabra/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Chenikachhabra/dsa-practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Chenikachhabra/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -254,4 +258,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Chenikachhabra/dsa-practice/tree/master/0014-longest-common-prefix) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Chenikachhabra/dsa-practice/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Chenikachhabra/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
